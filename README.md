@@ -10,7 +10,7 @@ You need the following packets
 1. vscode
 ## Get started
 ``` shell
-repo init -u git@github.com:WebPlatformForEmbedded/ThunderKickStart.git -m thunder-ml-development.xml
+repo init -u git@github.com:CooperCao/ThunderKickStart.git -m thunder-rdk-development.xml
 repo sync
 ./prepare.env
 code ${USER}-Thunder.code-workspace
