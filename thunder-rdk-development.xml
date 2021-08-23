@@ -6,6 +6,6 @@
     <project name="rdkservices" 
         remote="RDKCentral" 
         path="source/rdkservices" 
-        revision="refs/heads/master">
+	    revision="refs/heads/sprint/2105">
     </project>
 </manifest>
